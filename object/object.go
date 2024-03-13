@@ -6,7 +6,7 @@ import (
 	"hash/fnv"
 	"strings"
 
-	"github.com/Milk-Interpreters/milk_interpreter_go/ast"
+	"github.com/MilkeeyCat/monkey_language_interpreter/ast"
 )
 
 type ObjectType string

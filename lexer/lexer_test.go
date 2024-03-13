@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Milk-Interpreters/milk_interpreter_go/token"
+	"github.com/MilkeeyCat/monkey_language_interpreter/token"
 )
 
 func TestNextToken(t *testing.T) {

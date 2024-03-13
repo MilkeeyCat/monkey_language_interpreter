@@ -3,7 +3,7 @@ package evaluator
 import (
 	"fmt"
 
-	"github.com/Milk-Interpreters/milk_interpreter_go/object"
+	"github.com/MilkeeyCat/monkey_language_interpreter/object"
 )
 
 var builtins = map[string]*object.Builtin{

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/Milk-Interpreters/milk_interpreter_go/ast"
-	"github.com/Milk-Interpreters/milk_interpreter_go/lexer"
-	"github.com/Milk-Interpreters/milk_interpreter_go/token"
+	"github.com/MilkeeyCat/monkey_language_interpreter/ast"
+	"github.com/MilkeeyCat/monkey_language_interpreter/lexer"
+	"github.com/MilkeeyCat/monkey_language_interpreter/token"
 )
 
 type (

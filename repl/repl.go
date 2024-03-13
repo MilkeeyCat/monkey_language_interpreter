@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/Milk-Interpreters/milk_interpreter_go/evaluator"
-	"github.com/Milk-Interpreters/milk_interpreter_go/lexer"
-	"github.com/Milk-Interpreters/milk_interpreter_go/object"
-	"github.com/Milk-Interpreters/milk_interpreter_go/parser"
+	"github.com/MilkeeyCat/monkey_language_interpreter/evaluator"
+	"github.com/MilkeeyCat/monkey_language_interpreter/lexer"
+	"github.com/MilkeeyCat/monkey_language_interpreter/object"
+	"github.com/MilkeeyCat/monkey_language_interpreter/parser"
 )
 
 func printParserErrors(out io.Writer, errors []string) {

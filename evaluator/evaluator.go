@@ -3,8 +3,8 @@ package evaluator
 import (
 	"fmt"
 
-	"github.com/Milk-Interpreters/milk_interpreter_go/ast"
-	"github.com/Milk-Interpreters/milk_interpreter_go/object"
+	"github.com/MilkeeyCat/monkey_language_interpreter/ast"
+	"github.com/MilkeeyCat/monkey_language_interpreter/object"
 )
 
 var (

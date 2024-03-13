@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"strings"
 
-	"github.com/Milk-Interpreters/milk_interpreter_go/token"
+	"github.com/MilkeeyCat/monkey_language_interpreter/token"
 )
 
 type Node interface {

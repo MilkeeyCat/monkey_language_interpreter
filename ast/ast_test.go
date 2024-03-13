@@ -3,7 +3,7 @@ package ast
 import (
 	"testing"
 
-	"github.com/Milk-Interpreters/milk_interpreter_go/token"
+	"github.com/MilkeeyCat/monkey_language_interpreter/token"
 )
 
 func TestString(t *testing.T) {
